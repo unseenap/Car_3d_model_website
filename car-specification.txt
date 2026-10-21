@@ -1,0 +1,460 @@
+Overall car proportion
+
+The car has a very low, wide, aggressive hypercar stance. The body is long and flat, with the cabin pushed slightly forward compared with the rear axle area. The roofline is extremely low and smooth, while the wheel arches are large and muscular.
+
+Use approximately these proportions for the base blockout:
+
+Overall length: 4.6–4.8 m
+Overall width: 2.0–2.1 m
+Overall height: 1.10–1.18 m
+Wheelbase: 2.75–2.9 m
+Ground clearance: 90–110 mm
+Front track: around 1.72–1.78 m
+Rear track: around 1.76–1.82 m
+
+The body should look almost twice as wide as it is tall.
+
+Front design
+
+The front is one of the most aggressive parts of the vehicle.
+
+The nose is extremely low and pointed, with a wide wedge shape. Instead of a traditional grille, the front bumper contains several aerodynamic openings.
+
+The main elements are:
+
+Very low front hood.
+Central pointed nose.
+Large black air intake in the middle.
+Two large side intakes near the corners.
+Deep carbon-fiber front splitter.
+Sharp triangular bumper surfaces.
+Multiple vertical aerodynamic fins underneath.
+
+The front splitter should extend slightly beyond the bumper and curve upward near the front wheel areas.
+
+The center nose is smoother than the surrounding bumper, while the lower bumper should contain more angular geometry.
+
+Headlights
+
+The headlights are extremely narrow and futuristic.
+
+Each headlight contains:
+
+One thin horizontal LED projector section.
+A vertical or diagonal LED daytime-running light.
+Sharp triangular housing.
+
+The light signature forms something similar to an angular L / Y / boomerang shape.
+
+The headlights should sit very low inside the front fenders.
+
+Avoid making them large. They should look like narrow technical blades.
+
+Hood
+
+The hood is wide and low.
+
+It should contain several sculpted channels directing airflow from the front toward the windshield.
+
+The central hood area slightly rises before dropping toward the windshield.
+
+In this concept, parts of the hood are shown semi-transparent so the front chassis structure can be seen.
+
+For the actual solid model, you can create:
+
+removable front body shell
+inner structural frame underneath
+front cooling duct channels
+wheel-well structures
+
+The hood edges should flow directly into the front wheel arches.
+
+Front fenders
+
+The fenders are extremely pronounced.
+
+They rise above the hood surface and create strong muscular shoulders around the front wheels.
+
+The top of the fender should curve smoothly, but the side surface should transition into sharper aerodynamic edges.
+
+The fender should have:
+
+pronounced wheel arch
+small ventilation areas
+sculpted channel behind the wheel
+connection to large side aerodynamic blade
+
+The tire should nearly fill the wheel arch.
+
+Side profile
+
+The side profile should be extremely aerodynamic.
+
+The basic silhouette is:
+
+low nose → raised front fender → low windshield → curved roof → strong rear haunch → rear wing
+
+The doors sit low and are heavily sculpted.
+
+The side contains a very large air intake behind the door, feeding cooling air toward the engine area.
+
+The side should include:
+
+deep side intake
+large side skirt
+aerodynamic channel below the door
+vertical air channel behind front wheel
+large rear intake
+exposed structural frame in some areas
+
+The side skirt should look like a long carbon aerodynamic blade.
+
+Door shape
+
+The door should not be flat.
+
+Use a strongly concave door surface.
+
+The upper door follows the cabin line, while the lower portion narrows toward the side skirt.
+
+A strong diagonal line should run from the front wheel area toward the rear intake.
+
+For a concept version, butterfly or dihedral doors would suit the design.
+
+Suggested hinge behavior:
+
+door moves outward slightly → rotates upward.
+
+Cabin and windshield
+
+The cabin looks like a fighter-jet cockpit.
+
+The windshield is:
+
+very wide
+heavily curved
+low
+steeply raked
+
+The A-pillars are thin and angle strongly backward.
+
+The glass canopy continues almost seamlessly into the roof.
+
+The side windows should taper toward the rear.
+
+The cockpit is basically a teardrop-shaped volume placed inside a wider body.
+
+Roof
+
+The roof is very low and mostly smooth.
+
+There is a small aerodynamic intake/scoop toward the rear center of the roof.
+
+The roof scoop can feed air toward the engine or cooling system.
+
+Shape:
+
+small opening → narrowing tunnel → rear engine compartment.
+
+The roof should gradually transition into the engine cover and rear aerodynamic structure.
+
+Side mirrors
+
+The mirrors are very small and aerodynamic.
+
+Use a narrow carbon-fiber arm extending outward from the body.
+
+Mirror housing:
+
+triangular
+thin
+pointed toward the rear.
+
+You could alternatively design camera mirrors for a more futuristic version.
+
+Rear fenders
+
+The rear fenders are significantly larger than the front fenders.
+
+They form large muscular shoulders above the rear wheels.
+
+The fender should curve outward aggressively, then narrow toward the rear diffuser.
+
+The rear body should visually emphasize the powerful rear wheels.
+
+Important surface flow:
+
+roof → rear shoulder → wheel arch → diffuser.
+
+Rear air intake
+
+One of the largest aerodynamic openings is directly behind the door.
+
+The intake should be deep, almost like a carved cavity in the body.
+
+Shape:
+
+wide vertical opening near door → gradually narrows → airflow tunnel toward engine.
+
+Inside the intake you can model:
+
+cooling duct
+radiator
+mesh
+structural elements.
+
+This gives the car a strong mid-engine appearance.
+
+Wheels
+
+The wheels are oversized and very important visually.
+
+Suggested sizes:
+
+Front:
+
+20 or 21 inch wheels
+285–305 mm tires
+
+Rear:
+
+21 or 22 inch wheels
+325–355 mm tires
+
+The rims use a complex lightweight multi-spoke design.
+
+The spokes should be:
+
+angular
+sculpted
+slightly twisted
+carbon or forged-metal appearance.
+
+Use a large center-lock hub instead of standard wheel bolts if you want a racing appearance.
+
+Brakes
+
+Use very large carbon-ceramic brake discs.
+
+Behind the wheels:
+
+drilled or ventilated brake rotor
+large brake caliper
+metallic gold/orange caliper color
+
+The calipers should nearly fill the inside diameter of the wheels.
+
+This visually communicates extreme performance.
+
+Suspension
+
+Because the image exposes some mechanical structure, the suspension is clearly visible.
+
+Use double-wishbone suspension.
+
+Each wheel assembly can include:
+
+Upper control arm
+Lower control arm
+Pushrod
+Rockers
+Coilover damper
+Anti-roll mechanism
+
+The rear coilover can be positioned inward and visible through the exposed chassis.
+
+Use gold or orange springs/dampers as visual mechanical highlights.
+
+Chassis structure
+
+This is very important for reproducing the image.
+
+The car appears to use a combination of:
+
+carbon-fiber monocoque
+aluminum structural frame
+tubular or lattice subframes
+
+The center passenger compartment should be a rigid carbon monocoque.
+
+Front section:
+
+carbon monocoque → aluminum crash structure → suspension mounting points.
+
+Rear section:
+
+carbon monocoque → engine cradle → rear suspension structure.
+
+The visible chassis should use triangular structural geometry rather than simple rectangular beams.
+
+Think of a combination of:
+
+race-car spaceframe + carbon hypercar tub.
+
+Interior structure
+
+The cabin should contain two racing-style seats mounted very low.
+
+Possible details:
+
+carbon bucket seats
+integrated headrests
+four-point harness
+digital steering wheel
+compact dashboard
+central touchscreen
+exposed carbon interior panels
+
+Driver seating position should be low and reclined.
+
+The dashboard should be narrow and horizontal.
+
+Engine area
+
+The image suggests a high-performance mid-engine layout.
+
+The engine should be placed behind the passenger compartment.
+
+For a fictional concept, you could model:
+
+Twin-turbo V8 hybrid
+
+Basic components:
+
+engine block
+two turbochargers
+intake plenum
+intercoolers
+electric motor
+battery module
+rear transmission.
+
+The engine should sit very low.
+
+Air from the side intakes and roof scoop can feed the cooling system.
+
+Rear wing
+
+The car has a large rear wing.
+
+The wing should be mounted high enough to sit above the rear deck.
+
+Design:
+
+thin carbon wing blade
+central or dual supports
+adjustable angle
+slightly curved wing profile
+
+You could make it active so the wing changes angle for braking or high-speed downforce.
+
+Rear design
+
+Although the image mainly shows the front and side, the rear should follow the same angular design language.
+
+Suggested rear layout:
+
+thin horizontal LED taillights
+large center exhaust or twin exhaust
+huge rear diffuser
+vented engine cover
+large aerodynamic tunnels.
+
+The rear diffuser should extend far underneath the car.
+
+Use several vertical fins.
+
+Underbody aerodynamics
+
+The car should have a nearly flat floor.
+
+Underneath, model:
+
+front splitter → flat floor → Venturi tunnels → rear diffuser.
+
+Two large Venturi channels can run along both sides of the vehicle.
+
+These tunnels accelerate airflow under the car and generate downforce.
+
+This will make the 3D model feel like a real modern hypercar rather than only a visual concept.
+
+Main surface design language
+
+Use three types of surfaces throughout the car.
+
+Smooth aerodynamic surfaces
+Roof, windshield, hood center.
+
+Sharp mechanical surfaces
+Front bumper, side skirt, rear diffuser.
+
+Sculpted muscular surfaces
+Wheel arches, rear shoulders, front fenders.
+
+The design should combine smooth curves with strong angular cuts.
+
+Do not make every panel angular, otherwise the car will look too mechanical.
+
+Suggested modeling workflow
+
+For Blender, Maya, 3ds Max, or similar software, build it in this order:
+
+Create a simple side silhouette.
+Set wheel positions and wheelbase.
+Block out the main body.
+Create front and rear wheel arches.
+Shape the cockpit.
+Model hood and fenders.
+Add side intakes and door.
+Create front bumper and splitter.
+Model rear shoulders.
+Create rear diffuser and wing.
+Separate body panels.
+Build chassis underneath.
+Add suspension.
+Add wheels and brakes.
+Add interior.
+Add engine structure.
+Apply carbon fiber, metal, glass and paint materials.
+
+For clean automotive surfaces, keep the body mostly Subdivision Surface / NURBS-based and avoid adding too many vertices early.
+
+Useful topology rule
+
+While modeling the body, maintain clean longitudinal edge loops from front to rear.
+
+Try to make important body lines follow the topology.
+
+Especially maintain loops around:
+
+headlights
+wheel arches
+windshield
+side intake
+door
+rear air vents.
+
+Avoid triangles on the visible exterior body unless absolutely necessary.
+
+Most important characteristics to preserve
+
+If you want the finished 3D model to look close to this concept, preserve these specific features:
+
+extremely low hypercar stance
+very wide body
+sharp LED light signature
+huge front air intakes
+deep side intake
+large rear wheel arches
+carbon aerodynamic components
+exposed structural chassis
+visible racing suspension
+large performance wheels
+cockpit-style canopy
+mid-engine proportions
+aggressive rear wing
+mix of smooth curves and angular aero surfaces
+
+The strongest visual identity of the car comes from the combination of a finished hypercar exterior and a visible engineering/wireframe structure beneath it.
+
+If you are going to build this in Blender, I can also turn this description into a complete Blender modeling blueprint with Front View, Side View, Top View dimensions and part-by-part measurements, which would make it much easier to model accurately.
